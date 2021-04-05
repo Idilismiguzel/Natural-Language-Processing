@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-Code and document samples generated while following Udacity's [Natural Language Processing Nanodegree]https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/NLP+Nanodegree+Syllabus.pdf) Program. 💬🎇⚡
+Code and document samples generated while following Udacity's [Natural Language Processing Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/NLP+Nanodegree+Syllabus.pdf) Program. 💬🎇⚡
 
 ## Nanodegree Content
 Natural Language Processing Nanodegree is composed of 3 modules each with a project associated. 
