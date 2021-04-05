@@ -25,7 +25,7 @@ This module is the most interesting and challenging one imho, that prepares you 
 - Deep Learning Attention
 - [Machine Translation](https://github.com/Idilismiguzel/Machine-Translation) is the final project that requires to build a language translator. Completed model will accept English text as input and return the French translation. After completing the project it has to be submitted and reviewed by Udacity team in order to continue with the Nanodegree and to earn the certification. 
 <p align="center">
-  <img src="./images/P2.png"/>
+  <img src="./images/P2.png" width=50% height=50%/>
 </p>
 
 ### 3. Communicating with Natural Language
